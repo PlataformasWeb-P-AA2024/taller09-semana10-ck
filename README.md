@@ -15,6 +15,8 @@
 * Importar los registros de estudiantes.csv; desde la interfaz de administración, opción **import**
 * Importar los registros de matriculas.csv; desde la interfaz de administración, opción **import**
 
+![alt text](image.png)
+![alt text](image-1.png)
 
 ## Desarrollo taller - Semana 10
 
